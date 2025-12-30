@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>GYC STORE</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  color: #222;
+}
+header {
+  background: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+.button {
+  background: #25d366; /* Cor verde do WhatsApp */
+  color: #fff;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+footer {
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>GYC STORE</h1>
+  <p>Moda casual & jovem</p>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Loja</a>
+    <a href="#">Sobre</a>
+    <a href="#">Contato</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Do P ao Plus Size ✨</h2>
+  <p>Moda jovem, confortável e estilosa pra você.</p>
+  <br>
+  <a class="button" href="https://wa.me/5545999166288">Falar no WhatsApp</a>
+</section>
+
+<section>
+  <h2>Pagamento</h2>
+  <p>Aceitamos Pix 💳</p>
+</section>
+
+<footer>
+  <p>© 2025 GYC STORE</p>
+</footer>
+
+</body>
+</html>
